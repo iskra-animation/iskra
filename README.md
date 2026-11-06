@@ -8,14 +8,6 @@ timeline and node graph, and render the shots out one by one or as the whole fil
 
 ![The animation page: viewport, timeline, node view and tool properties](docs/screenshots/animation.png)
 
-Its workflows are inspired by professional 2D animation tools, but it is not a clone of any of
-them. It has no file compatibility with them and contains none of their code, assets or branding.
-
-## Status
-
-The planned milestones (M0 to M12) are built and closed. The work now is fixes and small
-features. Iskra is young: expect rough edges, and keep backups of work that matters.
-
 ## Screenshots
 
 The app has four pages, switched from the bar at the bottom of the window.
