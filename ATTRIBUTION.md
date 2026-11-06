@@ -2,7 +2,7 @@
 
 Everything in Iskra that comes from somewhere else, with its source and licence.
 
-Clean-room rule: Iskra contains no code, assets, icons or branding from other animation apps.
+Clean-room rule: Iskra contains no code, assets, icons or branding from other apps.
 
 ## Vendored source code
 
