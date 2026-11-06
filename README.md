@@ -113,8 +113,6 @@ CI builds and tests on Ubuntu, macOS and Windows.
 | `crates/third_party` | Crates vendored from the ArtCraft apps ([ATTRIBUTION.md](ATTRIBUTION.md)) |
 | `xtask` | Workspace automation |
 
-The design and the roadmap start at [.claude/PLAN.md](.claude/PLAN.md).
-
 ## Project files
 
 A project is one SQLite file (`.iskra`), documented in [docs/file-format.md](docs/file-format.md).
